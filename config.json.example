@@ -1,0 +1,24 @@
+{
+  "name": "Saza-Bot",
+  "owner": "628...",
+  "bot": "628...",
+  "prefix": ".",
+  "status": "public",
+  "autoread": "enable",
+  "loginMethod": "qr",
+  "markdown": true,
+  "antispam": {
+    "enabled": "enable",
+    "windowMs": 1000,
+    "maxWarn": 4,
+    "maxBan": 5,
+    "banMs": 60000
+  },
+  "commandGate": {
+    "enabled": "enable",
+    "maxConcurrentFree": 1,
+    "maxQueue": 3,
+    "freeMode": "queue",
+    "queueTimeoutMs": 30000
+  }
+}

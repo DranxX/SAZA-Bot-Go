@@ -1,0 +1,4 @@
+db/
+config.json
+*.so
+.mimosa/
